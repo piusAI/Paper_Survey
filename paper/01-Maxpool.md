@@ -30,52 +30,6 @@ a comparison of the properties of different aggregation functions hard...
 
 ### 🟨 01. Word Estimate - Label
 
-| Word (t)            | ŷ | Loss |
-| ---------------------- | ------- | ---- |
-| invariant | 다양한
-| aggregate | 재귀
-| aggregation | 회귀
-| Emprical | 엄청난
-| outperforms | 보여준다
-| improvement | 성장
-| Despite | 그럼에도
-| jittered-cluttered |
-| improvement | 성장
-| mammal |
-| cortex |
-| spatial | 부분의
-| assum | 추측하다--
-layout: post
-title: "MaxPool"
-date: 2025-06-18
-categories: ai paper
-tags: [paper, CNN, Maxpool, English study, ai]
-author: pius
-published: false
-cover-img: /assets/img/POSE.jpg
-thumbnail-img: /assets/img/PaperThumnail.png
-share-img: /assets/img/POSE2.jpg
----
-
-## 📄 Survey Title : Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition
-
- Paper Link: [(Evaluation of Pooling Operations in Convolutional Architextures for Object Recognition)](https://www.ais.uni-bonn.de/papers/icann2010_maxpool.pdf)
-
-
-This post is for MaxPooling
-
----
-
-### 📖 Abstract
-
-> A common practice to gain invariant features in object recognition models is to aggregate multiple low-level features over a small
-neighborhood. However, the differences between those models makes
-a comparison of the properties of different aggregation functions hard...
-
----
-
-### 🟨 01. Word Estimate - Label
-
 | Word (t)         | ŷ (예측값)   | Loss |
 |------------------------|---------------|------|
 | invariant (불변의)        | 다양한          | 0.92 |
